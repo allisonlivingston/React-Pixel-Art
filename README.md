@@ -1,3 +1,3 @@
 # React-Pixel-Art
 
-[Deployed link](https://react-pixel-art-99aaf.firebaseapp.com/)
+[My Pixel Art](https://react-pixel-art-99aaf.firebaseapp.com/)
