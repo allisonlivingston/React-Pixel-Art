@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "npm": "^6.1.0",
+    "npm": "^11.9.0",
     "pixel-grid-react": "0.0.4",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
